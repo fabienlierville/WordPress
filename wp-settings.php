@@ -14,6 +14,7 @@
  * @since 1.0.0
  */
 define( 'WPINC', 'wp-includes' );
+//Je fais du code de qualité pour améliorer le CMS
 
 /**
  * Version information for the current WordPress release.
